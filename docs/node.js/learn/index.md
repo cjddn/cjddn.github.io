@@ -3,7 +3,7 @@ layout: default
 title: 01 Node.js 시작하기
 nav_order: 100
 has_children: true
-permalink: /docs/node-js/learn
+permalink: /node-js/learn
 ---
 
 # Node.js 시작하기
