@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 01 Node.js 시작하기
-nav_order: 100
 has_children: true
 permalink: /node-js/learn
+parent: Node.js
+nav_order: 1
 ---
 
 # Node.js 시작하기
