@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Docker 컨테이너 별로 필요한 만큼 자원 할당하기(vCPUs, GPU, Memory, nvidia)
+title: Docker 컨테이너 별로 필요한 만큼 자원 할당하기(vCPUs, GPU, Memory)
 parent: Docker
 permalink: /docker/resource
 has_children: true
